@@ -7,14 +7,14 @@ This project involves working with the Banana environment. In this environment, 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions.
-
+f
 Untrained
 
-![Alt Text](https://media.giphy.com/media/paJEEd7bCXdDK7ebcB/giphy.gif)
+![Alt Text](https://media.giphy.com/media/ReIZlYhrzSWzMBvf80/giphy.gif)
 
 Trained
 
-![Alt Text](https://media.giphy.com/media/ttdcNRnXx8XZJSywmu/giphy.gif)
+![Alt Text](https://media.giphy.com/media/KyFYoGeEpGOLBnme6E/giphy.gif)
 
 The assignment is to train agents to get an average score of 0.5 over 100 consecutive episodes.
 
